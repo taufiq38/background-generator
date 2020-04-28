@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "script.js",
+  "scripts": {
+    "test": "sf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taufiq38/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taufiq38/background-generator/issues"
+  },
+  "homepage": "https://github.com/taufiq38/background-generator#readme"
+}
